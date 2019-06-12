@@ -6,7 +6,7 @@
 <form method="post">
  encoded Data: <input id="post_data" name="post_data"></input><br>
 <input type="submit">
-
+<br><a href="display foler contents.php">Click to view uploaded imgaes</a><br>
 
 <script>
 document.getElementById('pasteArea').onpaste = function (event) {
